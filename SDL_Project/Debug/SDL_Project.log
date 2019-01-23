@@ -1,0 +1,4 @@
+﻿  Assignment1.cpp
+c:\users\alimg\desktop\physics as1\sdl_project_1.1.0 - using umers body class\sdl_project\assignment1.cpp(25): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alimg\desktop\physics as1\sdl_project_1.1.0 - using umers body class\sdl_project\assignment1.cpp(48): warning C4305: '=': truncation from 'double' to 'float'
+  SDL_Project.vcxproj -> C:\Users\alimg\Desktop\Physics as1\SDL_Project_1.1.0 - Using Umers Body Class\Debug\SDL_Project.exe
